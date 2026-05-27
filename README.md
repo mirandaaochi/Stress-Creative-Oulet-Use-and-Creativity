@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This was a final project and research paper completed for Psychology 101: Research and Data Analysis in Psychology, in which students conducted our own research studies. 
+This was a final project and research paper completed for Psychology 101: Research and Data Analysis in Psychology at UC Berkeley, in which students conducted our own research studies. 
 
 The purpose of my study was to determine the effect of stress and the use of dance as a creative outlet on creativity.
 
